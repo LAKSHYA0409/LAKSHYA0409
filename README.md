@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:
-🐾 I’m currently learning Full Stack development and Data Structures and Algorithm<br>🤝 I’m looking to collaborate on Web development projects<br>💬 Ask me about Front-end <br>📧 How to reach me lakshya04092004@gmail.com<br>⚡ Fun fact:Well I do have a great humour<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]
+🐾 I’m currently learning Full Stack development and Data Structures and Algorithm<br>🤝 I’m looking to collaborate on Web development projects<br>💬 Ask me about Front-end <br>📧 How to reach me lakshya04092004@gmail.com<br>⚡ Fun fact:Well I do have a great humour<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2026]
 
 
 ## 🌐 Socials:
