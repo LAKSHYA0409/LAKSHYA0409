@@ -42,12 +42,7 @@
 
 
 
-### 😂 Random Dev Meme
-<div align="center">
-  <p>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="an525ish" />
-  </p>
- </div> 
+
 
 
 
